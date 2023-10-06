@@ -39,7 +39,6 @@ public class ContenedorGastosIngresos extends javax.swing.JFrame {
         menuPrincipal = new javax.swing.JMenuBar();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Directorio Departamentos");
         setBackground(new java.awt.Color(153, 255, 153));
 
         javax.swing.GroupLayout panelContenedorLayout = new javax.swing.GroupLayout(panelContenedor);
